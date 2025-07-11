@@ -13,6 +13,7 @@ If you're starting out and want to learn how to build portfolio websites like th
 
 - [W3Schools](https://www.w3schools.com/) – Beginner-friendly HTML/CSS/JS tutorials  
 - [FreeCodeCamp](https://www.freecodecamp.org/) – Full web development courses  
+- [MDN Web Docs](https://developer.mozilla.org/en-US/) – Official and detailed documentation  
 
 ---
 
