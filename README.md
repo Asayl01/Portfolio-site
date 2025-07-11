@@ -44,7 +44,6 @@ These websites help you pick, generate, and explore beautiful color palettes:
 - Social media icons with interactive hover effects  
 - Floating background shapes using CSS animations  
 - Scroll-based animations to reveal content smoothly  
-- Neatly separated HTML, CSS, and JavaScript files
 
 ## 🔗 Live Preview  
 [Click here to view the website](https://asayl01.github.io/Portfolio-site/)
