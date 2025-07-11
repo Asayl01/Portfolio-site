@@ -49,5 +49,4 @@ These websites help you pick, generate, and explore beautiful color palettes:
 ## 🔗 Live Preview  
 [Click here to view the website](https://asayl01.github.io/Portfolio-site/)
 
-> This project was built and refined with the help of GPT Manus — a powerful AI assistant for web developers.
-
+>  This project was created as a front-end practice to apply basic HTML, CSS, and JavaScript concepts with a focus on interactive UI elements.
