@@ -35,7 +35,16 @@ These websites help you pick, generate, and explore beautiful color palettes:
 - [Color Hunt](https://colorhunt.co/) – Curated color palettes for inspiration  
 - [Paletton](https://paletton.com/) – Create color combinations with visual previews  
 
- 
+ ## 📝 Features Used in This Project  
+- Responsive layout that works on all screen sizes  
+- Animated typing text using custom JavaScript  
+- Custom glowing cursor that changes on hover  
+- Ripple effect on CV button  
+- Social media icons with interactive hover effects  
+- Floating background shapes using CSS animations  
+- Scroll-based animations to reveal content smoothly  
+- Neatly separated HTML, CSS, and JavaScript files
+
 ## 🔗 Live Preview  
 [Click here to view the website](https://asayl01.github.io/Portfolio-site/)
 
