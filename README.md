@@ -28,14 +28,14 @@ Some websites that helped in designing animations and UI effects like buttons, c
   
 ---
 
- ## 🎨 Color Tools  
+ ## Color Tools  
 These websites help you pick, generate, and explore beautiful color palettes:
 
 - [Coolors](https://coolors.co/) – Generate color schemes with just one click  
 - [Color Hunt](https://colorhunt.co/) – Curated color palettes for inspiration  
 - [Paletton](https://paletton.com/) – Create color combinations with visual previews  
 
- ## 📝 Features Used in This Project  
+ ## Features Used in This Project  
 - Responsive layout that works on all screen sizes  
 - Animated typing text using custom JavaScript  
 - Custom glowing cursor that changes on hover  
